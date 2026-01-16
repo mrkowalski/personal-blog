@@ -51,7 +51,7 @@ languages:
     languageName: English
     contentDir: "content/en"
     weight: 1
-    title: mkcg.pl
+    title: MKCG.PL
     params:
       displayName: EN
       isoCode: en
@@ -62,8 +62,8 @@ languages:
         email: marcin@mkcg.pl
         image: img/marcin_kowalski.jpg
         imageQuality: 96
-        headline: I'm only human
-        bio: A little bit about you
+        headline: Strategic AI Consultant 🗲 Former CTO
+        bio: Strategic AI Consultant 🗲 Former CTO
         links:
           - email: mailto:marcin@mkcg.pl
           - github: https://github.com/mrkowalski

@@ -1,14 +1,14 @@
 ---
 date: '2026-01-14T23:45:26+01:00'
 draft: false
-title: 'How much technology will you keep in your processes?'
+title: 'Is AI more tech? Or less?'
 tags:
   - ai
   - agents
   - ux
 ---
 
-## AI does not equal more tech
+## AI does not equal "more digital"
 
 Customer interaction has never been more digital. AI hype of recent years predominantly frames it as a revolution in technology and the connection between customer interaction and AI is very obvious. But by looking at vendors' marketing, what they mean by "high quality AI" is usually not technology itself (remember megapixels?), but how indistinguishable it is from us. Some examples of recent copy-writing:
 
