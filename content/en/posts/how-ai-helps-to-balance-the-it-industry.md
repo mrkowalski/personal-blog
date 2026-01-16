@@ -1,8 +1,11 @@
-+++
-date = '2026-01-14T01:08:08+01:00'
-draft = true
-title = 'How AI helps to (finally) balance the IT industry'
-+++
+---
+date: '2026-01-14T01:08:08+01:00'
+draft: true
+title: 'How AI helps to (finally) balance the IT industry'
+tags:
+  - ai
+  - recruitment
+---
 
 O tym, że to bardzo skomplikowana branża w której pojawiło się mnóstwo mało kompetentnych ludzi, którzy zamiast inwestować w wiedzę znaleźli sobie proste nisze:
 

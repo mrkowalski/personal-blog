@@ -1,11 +1,14 @@
 ---
 date: '2026-01-14T23:45:26+01:00'
 draft: false
-title: 'How much technology will stay in your processes?'
-tags: ai, agents, ux
+title: 'How much technology will you keep in your processes?'
+tags:
+  - ai
+  - agents
+  - ux
 ---
 
-# How much technology will stay in your processes?
+## AI does not equal more tech
 
 Customer interaction has never been more digital. AI hype of recent years predominantly frames it as a revolution in technology and the connection between customer interaction and AI is very obvious. But by looking at vendors' marketing, what they mean by "high quality AI" is usually not technology itself (remember megapixels?), but how indistinguishable it is from us. Some examples of recent copy-writing:
 
@@ -25,6 +28,8 @@ In the world of apps, forms and online services, it is a welcome change. AI is t
 
 We know we wanted to get there since before the LLM revolution. Serendipity is a studied attribute of recommender systems[^1]. Variable rewards are an important component of social engagement[^2]
 
+## Human mistakes
+
 But it is not in all contexts that we praise AI for being "human-like". There is no room for spontaneity in regulatory reporting and limited tolerance for magnanimity when filing a claim. Take a look at the comparison of how different the perception can be, depending on who the actor is:
 
 | Human          | AI            |
@@ -41,7 +46,7 @@ Research in human-computer interaction and organizational psychology reveals dif
 - **Technology** is expected to reduce uncertainty. We position technology as a way to *eliminate* variance. We want a calculator or a GPS to be predictable. When AI mimics human unpredictability, we experience **"Algorithm Aversion"**[^3]; we judge machines much more harshly for a single mistake than we do a human for the same error.
 - **Humans** are expected to manage ambiguity. We position humans as superior in contexts requiring discovery of meaning and handling chaos. In creative or emotional scenarios, variability in judgment is framed as a feature, not a bug, because it allows for empathy and "reading the room" - skills that require deviating from a script.
 
-### So... what?
+## So... what?
 
 Software engineering took us to a point of *free choice* between how human-flexible or algorithmic-rigid our systems are. Agentic frameworks enable to mix and match binary if/else, and LLM, human-like decision points, and to defer to AI "brain" the decision on which of these two to choose and when. Agentic systems are yet to mature and LLMs are not 100% human-like but the choice is there. 
 
